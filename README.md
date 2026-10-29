@@ -1,4 +1,6 @@
-# My Blog
+# My Blog (DEPRECATED)
+
+**This blog has moved to https://vfxowlsyvh.github.io/ (repo `vfxowlsyvh/vfxowlsyvh.github.io`, local `~/vfxowlsyvh.github.io`). Do not publish articles here.** This site now only redirects visitors to the new address.
 
 A Jekyll blog built for GitHub Pages.
 
